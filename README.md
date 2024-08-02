@@ -1,6 +1,5 @@
 - 👋 Hi, I’m M. Emin SOYSAL
 - 👀 I’m interested in tricks.
-- 🌱 I’m currently learning .Net Core.
 - 📫 How to reach me : emin.m.soysal@gmail.com
 
 <!---
